@@ -30,7 +30,7 @@ Este projeto é uma API REST para controle de estoque, desenvolvida com Node.js,
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/controle-estoque-api.git
+   git clone https://github.com/GabrielAugustoFerreiraMaia/Controle-de-Estoque
 2. Entre no diretório do projeto:
 
    Navegue até a pasta do projeto:
