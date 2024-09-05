@@ -42,6 +42,13 @@ Este projeto é uma API REST para controle de estoque, desenvolvida com Node.js,
    Instale as dependências do projeto utilizando npm ou yarn:
    ```bash
    npm install
-OU         
+4. Configure as variáveis de ambiente:
+
+   Crie um arquivo .env na raiz do projeto com as seguintes variáveis:
+
    ```bash
-      yarn install
+   DB_HOST=localhost
+   DB_USER=seu_usuario
+   DB_PASSWORD=sua_senha
+   DB_NAME=nome_do_banco
+   DB_PORT=5432
